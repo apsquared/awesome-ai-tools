@@ -27,5 +27,7 @@ Am I missing something I absolutely should try?  [Drop me a note on X](https://x
 
 ## MCP Directories
 **[MCP.so](https://mcp.so/)** - Found the mongo server here, that said lots of junk to sift through.
+**[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** - Great curated list
+**[Official List](https://github.com/modelcontextprotocol/servers)** - The official list
 
 ## Things to Try (haven't tried yet)
