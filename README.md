@@ -6,12 +6,12 @@ Am I missing something I absolutely should try?  [Drop me a note on X](https://x
 
 ## General Tools
 
-**[Chat GPT]**(https://www.chatgpt.com) - Paid for Plus.  Stool very useful to me.
+**[Chat GPT](https://www.chatgpt.com)** - Paid for Plus.  Stool very useful to me.
 
 
 ## Dev Tools
 
-**[Cursor](https://www.cursor.com) - Absolute game change for "vibe coding".
+**[Cursor](https://www.cursor.com)** - Absolute game change for "vibe coding".
 
 
 ## Image / Logo Creation
@@ -19,13 +19,13 @@ Am I missing something I absolutely should try?  [Drop me a note on X](https://x
 
 ## Creatives
 
-**[Napkin](https://www.napkin.ai) - Really cool tool for creating informational graphics
+**[Napkin](https://www.napkin.ai)** - Really cool tool for creating informational graphics
 
 
 ## MCP Servers
-**[MCP-Mongo-Server](https://github.com/kiliczsh/mcp-mongo-server) - First MCP I got working
+**[MCP-Mongo-Server](https://github.com/kiliczsh/mcp-mongo-server)** - First MCP I got working
 
 ## MCP Directories
-**[MCP.so](https://mcp.so/) - Found the mongo server here, that said lots of junk to sift through.
+**[MCP.so](https://mcp.so/)** - Found the mongo server here, that said lots of junk to sift through.
 
 ## Things to Try (haven't tried yet)
