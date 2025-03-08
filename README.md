@@ -12,8 +12,11 @@ Am I missing something I absolutely should try?  [Drop me a note on X](https://x
 ## Dev Tools
 
 **[Cursor](https://www.cursor.com)** - Absolute game change for "vibe coding".
+
 **[v0](https://www.v0.dev)** - Great tool for ux prototyping
+
 **[lovable.dev](https://lovable.dev/)** - Cool tool for full stack prototying
+
 **[Replit](https://www.replit.com)** - Another cool tool for full stack prototying - haven't used it to deploy anything yet.
 
 
