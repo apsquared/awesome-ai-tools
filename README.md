@@ -39,3 +39,8 @@ Am I missing something I absolutely should try?  [Drop me a note on X](https://x
 **[Official List](https://github.com/modelcontextprotocol/servers)** - The official list
 
 ## Things to Try (haven't tried yet)
+
+
+## Sites Built With AI
+
+**[Legally Vibing](https://www.legallyvibing.com)** - Site built with and data sourced from AI Agents
